@@ -1,0 +1,7 @@
+.Box {
+  border: solid 1px red;
+  padding: 5px;
+}
+div > div > div.Box {
+  border: solid 1px yellow;
+}
